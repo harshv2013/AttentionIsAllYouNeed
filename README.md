@@ -67,7 +67,7 @@ Perfect for learning the fundamentals of Transformer architecture without the co
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/AttentionIsAllYouNeed.git
+   git clone https://github.com/harshv2013/AttentionIsAllYouNeed.git
    cd AttentionIsAllYouNeed
    ```
 
