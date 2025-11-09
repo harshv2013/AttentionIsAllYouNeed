@@ -1,5 +1,7 @@
 # 🧠 AttentionIsAllYouNeed — Mini Transformer
 
+<img src="banner_medium_post.png" alt="Banner" width="100%">
+
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-FF6F00?logo=tensorflow)](https://www.tensorflow.org/)
 [![Python](https://img.shields.io/badge/Python-3.8+-3776AB?logo=python)](https://www.python.org/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
