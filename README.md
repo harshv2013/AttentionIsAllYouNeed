@@ -238,6 +238,11 @@ Through this implementation, you'll understand:
 
 Built for educational understanding of attention mechanisms and Transformer internals.
 
+📍 Follow me on [LinkedIn](https://www.linkedin.com/in/harsh-vardhan-60b6aa106/)  
+💻 Check out my [GitHub](https://github.com/harshv2013) for more projects  
+📧 Contact: harsh2013@gmail.com
+
+
 ---
 
 ## 📄 License
